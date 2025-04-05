@@ -47,7 +47,8 @@ torch
 notebook
 
 
-How to Run the Simulation
+## How to Run the Simulation
+
 Open smart_traffic_light.ipynb.
 
 Run all cells (Kernel > Restart & Run All).
