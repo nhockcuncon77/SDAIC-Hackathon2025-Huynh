@@ -55,7 +55,7 @@ Run all cells (Kernel > Restart & Run All).
 Observe printed logs and visual plots for performance evaluation.
 
 
-Visual Outputs
+## Visual Outputs
 At the end of the simulation, the notebook produces:
 
 🚦 Queue Length Over Time (NS, EW, Total)
@@ -68,7 +68,7 @@ At the end of the simulation, the notebook produces:
 
 🧠 Top Q-values Learned from training
 
-🧪 How to Test
+## 🧪 How to Test
 You can test different configurations by modifying parameters:
 
 In the TrafficEnvironment:
@@ -87,7 +87,7 @@ epsilon: Exploration rate
 
 After changes, re-run the cells to see updated behaviors and performance metrics.
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 🤖 Implement and compare Deep Q-Network (DQN) performance
 
 🏙️ Simulate a grid of multiple intersections
